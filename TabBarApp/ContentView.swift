@@ -17,8 +17,7 @@ struct ContentView: View {
                 Image(systemName: "plus")
                 Text("tab1")
             }
-            Text("b")
-
+            SecondScene()
             .tabItem {
                 Image(systemName: "pencil")
                 Text("tab1")

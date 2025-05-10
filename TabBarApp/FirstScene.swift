@@ -53,6 +53,6 @@ struct FirstScene :View {
 
 
 
-#Preview {
-    ContentView()
-}
+//#Preview {
+//    ContentView()
+//}
